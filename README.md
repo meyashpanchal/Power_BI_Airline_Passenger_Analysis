@@ -92,3 +92,12 @@ Through KPIs, route-based analysis, time trends, and geographic visualization, t
 
 This project highlights practical skills in **data modeling, DAX measures, Power Query transformation, and dashboard storytelling**, making it a strong example of data analytics using Power BI.
 
+---
+
+## 👤 Author
+
+**Yash Panchal**  
+GitHub: https://github.com/meyashpanchal
+
+
+---
